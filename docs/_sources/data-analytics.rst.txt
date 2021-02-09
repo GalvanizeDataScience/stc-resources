@@ -11,7 +11,7 @@ linear models.  Building on a linear model foundation students will be introduce
 and machine learning techniques.
 
 .. csv-table:: Data Analyst Training
-   :file: ./products/da.csv
+   :file: ./products/it1a.csv
    :widths: 2, 30, 70
    :header-rows: 1
 

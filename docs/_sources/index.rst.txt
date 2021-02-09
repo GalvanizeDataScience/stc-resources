@@ -50,3 +50,4 @@ important that students are held accountable for the work they set out to do.
     essentials
     data-analytics
     data-science
+    professional-training

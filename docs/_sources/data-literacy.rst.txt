@@ -23,7 +23,7 @@ Data Literacy: fundamentals track
 ===================================
 
 .. csv-table:: Data Literacy
-   :file: ./products/dl1.csv
+   :file: ./products/dc4a.csv
    :widths: 2, 30, 70
    :header-rows: 1
 

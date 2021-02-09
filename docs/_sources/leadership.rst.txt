@@ -4,19 +4,17 @@
 Leadership
 *************************************
 
-
-Business intelligence for Managers
+Data-Driven Decisions for Managers
 ===================================
 
-.. csv-table:: Business intelligence for Managers
-   :file: ./products/bi4m.csv
+.. csv-table:: Data-Driven Decisions for Managers
+   :file: ./products/dc3a.csv
    :widths: 2, 30, 70
    :header-rows: 1
 
 .. note::
 
     Each unit is 4 hours in duration
-
 
 Data Science for Executives
 ================================

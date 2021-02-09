@@ -32,7 +32,7 @@ an easy to use, scripting language, with mature and well-maintained data science
 
 
 .. csv-table:: Python Essentials
-   :file: ./products/py4a.csv
+   :file: ./products/es1a.csv
    :widths: 5, 30, 70
    :header-rows: 1
 
@@ -46,7 +46,7 @@ Math and Stats Essentials (Python)
 Refresher on undergraduate level concepts of linear algebra, and basic math that is relevant to data science.
 
 .. csv-table:: Math-Stats Essentials
-   :file: ./products/ms4a.csv
+   :file: ./products/es2a.csv
    :widths: 5, 30, 70
    :header-rows: 1
 
